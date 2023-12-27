@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{qtong56}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/qtong56/count.svg)
 
 <!--
 **qtong56/qtong56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
