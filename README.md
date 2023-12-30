@@ -1,18 +1,14 @@
-### Hi there 👋
+## 👋 Hi there, I'm QiQi
+![visitors](https://visitor-badge.glitch.me/badge?page_id=qtong56.visitor-badge)
 
-![Visitor Count](https://profile-counter.glitch.me/qtong56/count.svg)
+### About me
+🎓 currently studying Applied Mathematics/Statistics and Computer Science at Johns Hopkins University
 
-<!--
-**qtong56/qtong56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 passionate about data science and software development
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+
+### 🤝🏻 Connect with me!
+<a href="https://www.linkedin.com/in/qilin-tong" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
