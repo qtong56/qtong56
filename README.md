@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm QiQi
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qtong56.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=qtong56.qtong56)
 
 ### About me
 🎓 currently studying Applied Mathematics/Statistics and Computer Science at Johns Hopkins University
