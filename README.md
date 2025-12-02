@@ -2,9 +2,10 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=qtong56.qtong56)
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
-🎓 currently studying Applied Mathematics/Statistics and Computer Science at Johns Hopkins University <br>
+💼 working now as a tech consultant <br>
+🎓 previously studied Computer Science and Applied Mathematics/Statistics at Johns Hopkins University <br>
 💡 interested in data science and full-stack development <br>
-🔭 exploring NLP ELT pipelining with emotions in text and Bayesian methods in disease risk prediction <br>
+🔭 exploring making Chinese language learning more effective and analyzing my own brain waves on music <br>
 
 ### <img src="https://i.giphy.com/4PVeey0T30PAiBYq9n.webp" width="50"> Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
