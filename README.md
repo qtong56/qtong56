@@ -3,7 +3,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=qtong56.qtong56)
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
 💼 working now as a tech consultant <br>
-🎓 previously studied Computer Science and Applied Mathematics/Statistics at Johns Hopkins University <br>
+🎓 studied Computer Science and Applied Mathematics/Statistics at Johns Hopkins University <br>
 💡 interested in data science and full-stack development <br>
 🔭 exploring making Chinese language learning more effective and analyzing my own brain waves on music <br>
 
